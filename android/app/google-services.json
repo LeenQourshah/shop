@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670817125893",
+    "project_id": "shop-64af5",
+    "storage_bucket": "shop-64af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670817125893:android:9b2bd5f136e10aa4e83e6c",
+        "android_client_info": {
+          "package_name": "com.leenqourshah.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670817125893-u200nr080gafu276m3gtrcmc0grdvrva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKAU4saBAVhviNL9-TvLzSbzfvVm6qfAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670817125893-u200nr080gafu276m3gtrcmc0grdvrva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
